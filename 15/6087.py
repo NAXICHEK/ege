@@ -1,6 +1,5 @@
-def promejutok(a, x, b):
-    return a <= x <= b
 
+promejutok = lambda a, x, b: a <= x <= b
 for a in range(1000):
     fl = 1
     for x in range(1000):
