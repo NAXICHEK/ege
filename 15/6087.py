@@ -1,4 +1,3 @@
-
 promejutok = lambda a, x, b: a <= x <= b
 for a in range(1000):
     fl = 1
