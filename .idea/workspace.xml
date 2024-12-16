@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="выгрузка">
-      <change afterPath="$PROJECT_DIR$/7/18041.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/17694.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1.executor": "Run",
+    "Python.17694.executor": "Run",
+    "Python.17861.executor": "Run",
     "Python.18041.executor": "Run",
     "Python.18132.executor": "Run",
     "Python.18142.executor": "Run",
@@ -264,7 +265,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734372256524</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="выгрузка">
+      <option name="closed" value="true" />
+      <created>1734375599044</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1734375599044</updated>
+    </task>
+    <task id="LOCAL-00023" summary="выгрузка">
+      <option name="closed" value="true" />
+      <created>1734375716764</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1734375716764</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
