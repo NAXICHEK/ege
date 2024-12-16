@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="выгрузка">
-      <change afterPath="$PROJECT_DIR$/7/17694.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/16318.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1.executor": "Run",
+    "Python.16318.executor": "Run",
+    "Python.17520.executor": "Run",
+    "Python.17626.executor": "Run",
     "Python.17694.executor": "Run",
     "Python.17861.executor": "Run",
     "Python.18041.executor": "Run",
@@ -281,7 +284,31 @@
       <option name="project" value="LOCAL" />
       <updated>1734375716764</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="выгрузка">
+      <option name="closed" value="true" />
+      <created>1734375990646</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1734375990646</updated>
+    </task>
+    <task id="LOCAL-00025" summary="выгрузка">
+      <option name="closed" value="true" />
+      <created>1734376072481</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1734376072481</updated>
+    </task>
+    <task id="LOCAL-00026" summary="выгрузка">
+      <option name="closed" value="true" />
+      <created>1734376190921</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1734376190921</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
