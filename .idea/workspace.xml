@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="разгрузка">
-      <change afterPath="$PROJECT_DIR$/17/17636/17636/17636.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17636/17636/17_17636.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/14260/14260.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/14260/17_14260.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +55,7 @@
     "Python.12773.executor": "Run",
     "Python.12777.executor": "Run",
     "Python.13822.executor": "Run",
+    "Python.14260.executor": "Run",
     "Python.14409.executor": "Run",
     "Python.15435.executor": "Run",
     "Python.16318.executor": "Run",
@@ -95,11 +95,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/17/14260" />
+      <recent name="$PROJECT_DIR$/17/17636" />
       <recent name="$PROJECT_DIR$/17/17636/17636" />
       <recent name="$PROJECT_DIR$/17/18368" />
       <recent name="$PROJECT_DIR$/17/18617" />
-      <recent name="$PROJECT_DIR$/17/1970" />
-      <recent name="$PROJECT_DIR$/17/18142" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -430,7 +430,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734541728556</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="разгрузка">
+      <option name="closed" value="true" />
+      <created>1734545723215</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1734545723215</updated>
+    </task>
+    <task id="LOCAL-00041" summary="разгрузка">
+      <option name="closed" value="true" />
+      <created>1734545740711</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1734545740711</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
