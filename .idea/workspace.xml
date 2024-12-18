@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="спат хочу">
-      <change afterPath="$PROJECT_DIR$/17/18617/17_18617.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/18617/18617.py" afterDir="false" />
+    <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="разгрузка">
+      <change afterPath="$PROJECT_DIR$/7/18309.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +66,7 @@
     "Python.18132.executor": "Run",
     "Python.18142.executor": "Run",
     "Python.18191.executor": "Run",
+    "Python.18309.executor": "Run",
     "Python.18363.executor": "Run",
     "Python.18613.executor": "Run",
     "Python.18617.executor": "Run",
@@ -90,6 +90,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/17/18368" />
       <recent name="$PROJECT_DIR$/17/18617" />
       <recent name="$PROJECT_DIR$/17/1970" />
       <recent name="$PROJECT_DIR$/17/18142" />
@@ -383,7 +384,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734470981047</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="разгрузка">
+      <option name="closed" value="true" />
+      <created>1734471617305</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1734471617305</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,6 +410,7 @@
     <MESSAGE value="&#10;g" />
     <MESSAGE value="выгрузка" />
     <MESSAGE value="спат хочу" />
-    <option name="LAST_COMMIT_MESSAGE" value="спат хочу" />
+    <MESSAGE value="разгрузка" />
+    <option name="LAST_COMMIT_MESSAGE" value="разгрузка" />
   </component>
 </project>
