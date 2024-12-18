@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="разгрузка">
+      <change afterPath="$PROJECT_DIR$/17/9969/17_9969.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/9969/9969.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17/9993/17_9993.txt" beforeDir="false" afterPath="$PROJECT_DIR$/17/9993/17_9993.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17/9993/9993.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/9993/9993.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +89,7 @@
     "Python.7.executor": "Run",
     "Python.8.executor": "Run",
     "Python.8424.executor": "Run",
+    "Python.9969.executor": "Run",
     "Python.9993.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -97,11 +99,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/17/9969" />
       <recent name="$PROJECT_DIR$/17/9993" />
       <recent name="$PROJECT_DIR$/17/14260" />
       <recent name="$PROJECT_DIR$/17/17636" />
       <recent name="$PROJECT_DIR$/17/17636/17636" />
-      <recent name="$PROJECT_DIR$/17/18368" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -464,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734546130089</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="разгрузка">
+      <option name="closed" value="true" />
+      <created>1734546811778</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1734546811778</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
