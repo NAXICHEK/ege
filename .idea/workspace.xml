@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="разгрузка">
-      <change afterPath="$PROJECT_DIR$/7/18309.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/17980.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,7 @@
     "Python.18041.executor": "Run",
     "Python.18132.executor": "Run",
     "Python.18142.executor": "Run",
+    "Python.18177.executor": "Run",
     "Python.18191.executor": "Run",
     "Python.18309.executor": "Run",
     "Python.18363.executor": "Run",
@@ -392,7 +393,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734471617305</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="разгрузка">
+      <option name="closed" value="true" />
+      <created>1734540655486</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1734540655486</updated>
+    </task>
+    <task id="LOCAL-00037" summary="разгрузка">
+      <option name="closed" value="true" />
+      <created>1734540781364</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1734540781364</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
