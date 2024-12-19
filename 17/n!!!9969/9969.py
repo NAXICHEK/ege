@@ -18,11 +18,9 @@ for j in g:
 
 for i in unic:
     maxi_for_u = max(maxi_for_u, i[1])
-
-for i in unic:
     if i[1] == maxi_for_u:
         m = max(m, int(i[0]))
-
+print(m)
 # def meshanina(x):
 #     d = []
 #     ss = ''
