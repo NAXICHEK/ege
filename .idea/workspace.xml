@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="разгрузка">
-      <change afterPath="$PROJECT_DIR$/17/9969/17_9969.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/9969/9969.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17/n!!!9969/9969.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/n!!!9969/9969.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,53 +49,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.executor": "Run",
-    "Python.12723.executor": "Run",
-    "Python.12773.executor": "Run",
-    "Python.12777.executor": "Run",
-    "Python.13822.executor": "Run",
-    "Python.14260.executor": "Run",
-    "Python.14409.executor": "Run",
-    "Python.15435.executor": "Run",
-    "Python.16318.executor": "Run",
-    "Python.17520.executor": "Run",
-    "Python.17626.executor": "Run",
-    "Python.17636.executor": "Run",
-    "Python.17694.executor": "Run",
-    "Python.17861.executor": "Run",
-    "Python.17979.executor": "Run",
-    "Python.17980.executor": "Run",
-    "Python.18041.executor": "Run",
-    "Python.18132.executor": "Run",
-    "Python.18142.executor": "Run",
-    "Python.18177.executor": "Run",
-    "Python.18191.executor": "Run",
-    "Python.18309.executor": "Run",
-    "Python.18363.executor": "Run",
-    "Python.18613.executor": "Run",
-    "Python.18617.executor": "Run",
-    "Python.1970.executor": "Run",
-    "Python.2.executor": "Run",
-    "Python.2312.executor": "Run",
-    "Python.3.executor": "Debug",
-    "Python.4.executor": "Run",
-    "Python.5.executor": "Run",
-    "Python.6.executor": "Run",
-    "Python.6087.executor": "Run",
-    "Python.6689.executor": "Run",
-    "Python.7.executor": "Run",
-    "Python.8.executor": "Run",
-    "Python.8424.executor": "Run",
-    "Python.9969.executor": "Run",
-    "Python.9993.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/naxik/Desktop/prog/ege",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12723.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12773.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12777.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13822.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14260.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14409.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15435.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16318.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17520.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17626.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17636.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17694.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17861.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17979.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17980.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18041.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18132.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18142.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18177.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18191.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18309.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18363.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18613.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18617.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1970.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2312.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6087.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6689.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8424.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9969.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9993.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/naxik/Desktop/prog/ege&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/17/9969" />
@@ -474,7 +473,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734546811778</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="разгрузка">
+      <option name="closed" value="true" />
+      <created>1734548915644</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1734548915644</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
