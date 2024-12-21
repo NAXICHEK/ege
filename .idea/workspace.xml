@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="разгрузка">
-      <change afterPath="$PROJECT_DIR$/17/37357/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/37357/37357.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/7718/17 (2)_7718.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/7718/7718.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/48465r/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/48465r/48465.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17/37357/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/17/37357r/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17/37357/37357.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/37357r/37357.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +85,7 @@
     "Python.3.executor": "Debug",
     "Python.37357.executor": "Run",
     "Python.4.executor": "Run",
+    "Python.48465.executor": "Run",
     "Python.5.executor": "Run",
     "Python.6.executor": "Run",
     "Python.6087.executor": "Run",
@@ -511,7 +511,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734707453363</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="разгрузка">
+      <option name="closed" value="true" />
+      <created>1734712154878</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1734712154878</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
