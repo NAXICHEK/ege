@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="разгрузка">
-      <change afterPath="$PROJECT_DIR$/16/nn1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/19237.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +96,7 @@
     "Python.18617.executor": "Run",
     "Python.18620.executor": "Run",
     "Python.18866.executor": "Run",
+    "Python.19237.executor": "Run",
     "Python.1970.executor": "Run",
     "Python.2.executor": "Run",
     "Python.2312.executor": "Run",
@@ -150,14 +151,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734121322299</updated>
-    </task>
-    <task id="LOCAL-00030" summary="выгрузка">
-      <option name="closed" value="true" />
-      <created>1734377110464</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1734377110464</updated>
     </task>
     <task id="LOCAL-00031" summary="выгрузка">
       <option name="closed" value="true" />
@@ -543,7 +536,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734951607466</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="разгрузка">
+      <option name="closed" value="true" />
+      <created>1734952154208</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1734952154208</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
