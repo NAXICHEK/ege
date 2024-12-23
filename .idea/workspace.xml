@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="разгрузка">
-      <change afterPath="$PROJECT_DIR$/16/14337.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16/nn1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +64,7 @@
     "Python.13822.executor": "Run",
     "Python.13868_1.executor": "Run",
     "Python.14260.executor": "Run",
+    "Python.14337.executor": "Run",
     "Python.14338.executor": "Run",
     "Python.14409.executor": "Run",
     "Python.14435.executor": "Run",
@@ -117,6 +119,7 @@
     "Python.9964.executor": "Run",
     "Python.9969.executor": "Run",
     "Python.9993.executor": "Run",
+    "Python.nn1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/naxik/Desktop/prog/ege",
@@ -147,14 +150,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734121322299</updated>
-    </task>
-    <task id="LOCAL-00029" summary="выгрузка">
-      <option name="closed" value="true" />
-      <created>1734376937146</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1734376937146</updated>
     </task>
     <task id="LOCAL-00030" summary="выгрузка">
       <option name="closed" value="true" />
@@ -540,7 +535,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734951179543</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="разгрузка">
+      <option name="closed" value="true" />
+      <created>1734951607466</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1734951607466</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
