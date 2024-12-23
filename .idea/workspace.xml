@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="разгрузка">
-      <change afterPath="$PROJECT_DIR$/25/17536_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16/18490.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,9 +87,11 @@
     "Python.18363.executor": "Run",
     "Python.18370.executor": "Run",
     "Python.18372.executor": "Run",
+    "Python.18490.executor": "Run",
     "Python.18613.executor": "Run",
     "Python.18617.executor": "Run",
     "Python.18620.executor": "Run",
+    "Python.18866.executor": "Run",
     "Python.1970.executor": "Run",
     "Python.2.executor": "Run",
     "Python.2312.executor": "Run",
@@ -143,30 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734121322299</updated>
-    </task>
-    <task id="LOCAL-00022" summary="выгрузка">
-      <option name="closed" value="true" />
-      <created>1734375599044</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1734375599044</updated>
-    </task>
-    <task id="LOCAL-00023" summary="выгрузка">
-      <option name="closed" value="true" />
-      <created>1734375716764</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1734375716764</updated>
-    </task>
-    <task id="LOCAL-00024" summary="выгрузка">
-      <option name="closed" value="true" />
-      <created>1734375990646</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1734375990646</updated>
     </task>
     <task id="LOCAL-00025" summary="выгрузка">
       <option name="closed" value="true" />
@@ -536,7 +514,31 @@
       <option name="project" value="LOCAL" />
       <updated>1734949011491</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="разгрузка">
+      <option name="closed" value="true" />
+      <created>1734949202166</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1734949202166</updated>
+    </task>
+    <task id="LOCAL-00072" summary="разгрузка">
+      <option name="closed" value="true" />
+      <created>1734949402695</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1734949402695</updated>
+    </task>
+    <task id="LOCAL-00073" summary="разгрузка">
+      <option name="closed" value="true" />
+      <created>1734949420450</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1734949420451</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
