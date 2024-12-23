@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="москва магадан" />
+    <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="москва магадан">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +98,7 @@
     "Python.18861.executor": "Run",
     "Python.18866.executor": "Run",
     "Python.19237.executor": "Run",
+    "Python.1949.executor": "Run",
     "Python.1970.executor": "Run",
     "Python.2.executor": "Run",
     "Python.2312.executor": "Run",
@@ -121,6 +124,7 @@
     "Python.9993.executor": "Run",
     "Python.nn1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/naxik/Desktop/prog/ege",
     "settings.editor.selected.configurable": "configurable.group.appearance"
@@ -135,10 +139,39 @@
       <recent name="$PROJECT_DIR$/17/48465r" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="1949" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8/1949.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1949" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
       </set>
     </attachedChunks>
   </component>
