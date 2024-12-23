@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="москва магадан" />
+    <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="москва магадан">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +99,7 @@
     "Python.18861.executor": "Run",
     "Python.18866.executor": "Run",
     "Python.19237.executor": "Run",
+    "Python.19240.executor": "Run",
     "Python.1970.executor": "Run",
     "Python.2.executor": "Run",
     "Python.2312.executor": "Run",
@@ -123,7 +127,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/naxik/Desktop/prog/ege",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -150,14 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734121322299</updated>
-    </task>
-    <task id="LOCAL-00034" summary="спат хочу">
-      <option name="closed" value="true" />
-      <created>1734470981047</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1734470981047</updated>
     </task>
     <task id="LOCAL-00035" summary="разгрузка">
       <option name="closed" value="true" />
@@ -543,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734963850453</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="москва магадан">
+      <option name="closed" value="true" />
+      <created>1734964546191</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1734964546191</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
