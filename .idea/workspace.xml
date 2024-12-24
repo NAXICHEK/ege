@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="москва магадан">
-<<<<<<< HEAD
+    <list default="true" id="cb5b4080-78cf-425b-8828-283d59deacee" name="Changes" comment="выгрузка">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.py" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
->>>>>>> origin/main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +16,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <branch-grouping />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -36,575 +33,529 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/NAXICHEK/ege.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/NAXICHEK/pythonProject.git&quot;,
     &quot;accountId&quot;: &quot;63a9acb4-f5ef-4356-9fb4-6e23f579cac0&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 6
 }</component>
-  <component name="ProjectId" id="2qB1niI13giZzJzbtVZXXF1xu2Y" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2mciekkjKyXjQ4c727vTtlCHmow" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.executor": "Run",
-    "Python.11240.executor": "Run",
-    "Python.11261.executor": "Run",
-    "Python.11262.executor": "Run",
-    "Python.11263.executor": "Run",
-    "Python.11275.executor": "Run",
-    "Python.11276.executor": "Run",
-    "Python.11658.executor": "Run",
-    "Python.12723.executor": "Run",
-    "Python.12773.executor": "Run",
-    "Python.12777.executor": "Run",
-    "Python.13822.executor": "Run",
-    "Python.13868_1.executor": "Run",
-    "Python.14260.executor": "Run",
-    "Python.14337.executor": "Run",
-    "Python.14338.executor": "Run",
-    "Python.14409.executor": "Run",
-    "Python.14435.executor": "Run",
-    "Python.14437.executor": "Run",
-    "Python.15435.executor": "Run",
-    "Python.16318.executor": "Run",
-    "Python.17520.executor": "Run",
-    "Python.17536.executor": "Run",
-    "Python.17536_1.executor": "Run",
-    "Python.17564.executor": "Run",
-    "Python.17626.executor": "Run",
-    "Python.17636.executor": "Run",
-    "Python.17694.executor": "Run",
-    "Python.17861.executor": "Run",
-    "Python.17979.executor": "Run",
-    "Python.17980.executor": "Run",
-    "Python.18041.executor": "Run",
-    "Python.18132.executor": "Run",
-    "Python.18142.executor": "Run",
-    "Python.18177.executor": "Run",
-    "Python.18191.executor": "Run",
-    "Python.18297.executor": "Run",
-    "Python.18309.executor": "Run",
-    "Python.18361.executor": "Run",
-    "Python.18363.executor": "Run",
-    "Python.18370.executor": "Run",
-    "Python.18372.executor": "Run",
-    "Python.18490.executor": "Run",
-    "Python.18613.executor": "Run",
-    "Python.18617.executor": "Run",
-    "Python.18620.executor": "Run",
-    "Python.18861.executor": "Run",
-    "Python.18866.executor": "Run",
-    "Python.19237.executor": "Run",
-<<<<<<< HEAD
-    "Python.19240.executor": "Run",
-=======
-    "Python.1949.executor": "Run",
->>>>>>> origin/main
-    "Python.1970.executor": "Run",
-    "Python.2.executor": "Run",
-    "Python.2312.executor": "Run",
-    "Python.3.executor": "Debug",
-    "Python.37340.executor": "Run",
-    "Python.37357.executor": "Run",
-    "Python.37360.executor": "Run",
-    "Python.38951.executor": "Run",
-    "Python.4.executor": "Run",
-    "Python.48465.executor": "Run",
-    "Python.5.executor": "Run",
-    "Python.6.executor": "Run",
-    "Python.6087.executor": "Run",
-    "Python.6689.executor": "Run",
-    "Python.7.executor": "Run",
-    "Python.7718.executor": "Run",
-    "Python.8.executor": "Run",
-    "Python.8424.executor": "Run",
-    "Python.9752.executor": "Run",
-    "Python.9844.executor": "Run",
-    "Python.9964.executor": "Run",
-    "Python.9969.executor": "Run",
-    "Python.9993.executor": "Run",
-    "Python.nn1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/naxik/Desktop/prog/ege",
-    "settings.editor.selected.configurable": "settings.sync"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10087.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10094.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10096.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10097.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10098.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10150.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10309r.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10707.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10714.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1078.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11224.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11267.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11268.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11269.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11270.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11271.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11272.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11274.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11302.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11305.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11330.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11330c.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11346.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11478.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11483.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11635.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11661.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11669.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11833.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11840.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11841.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11947.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12097.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12101.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12244.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12253.executor&quot;: &quot;Run&quot;,
+    &quot;Python.123.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1231.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12436.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12462.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12475.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12492.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12494.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12729.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12739.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12776.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12779.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1282.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12921.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12930.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.1.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13077.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13099.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13243.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13300.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13309.executor&quot;: &quot;Run&quot;,
+    &quot;Python.134.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1374(гроб).executor&quot;: &quot;Run&quot;,
+    &quot;Python.1376.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13820.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13823.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13826.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13827.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13827_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13830.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13841.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13854.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13868.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13874.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1388.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13881.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13883.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1392.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13960.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13961.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13961_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13962.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13965.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13968.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13969.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13970.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14374.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14410.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14418.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14419.executor&quot;: &quot;Run&quot;,
+    &quot;Python.145.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14657.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14947.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14952.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14954.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15317.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15317_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15324.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15325.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15336.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15338.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16258.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16261.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16268.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16316.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16319.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16319c.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16323.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16324.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16330.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16332.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16334.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16377.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16377_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16378.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16385.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16387.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17.55.r.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17.re.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17524.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17525.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17528.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17532.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17534.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17549.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17552.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17553.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17558.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17560.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17562.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17627.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17630.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17631.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17634.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17638.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17640.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17674.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17675.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17677.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17678.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17679.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17680.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17682.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17684.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17750.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17752.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17768.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17781.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17862.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17865.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17866.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17869.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17870.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17871.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17872.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17873.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17877.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17935.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17966.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17971.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17973.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17974.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17_21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18040.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18043.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18044.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18047.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18049.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18119.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18120.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18122.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18123.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18125.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18130.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18133.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18136.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18137.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18141.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18144.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18146.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18158.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18162.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18166.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18167.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18175.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18179.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18180.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18192.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18199.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18260.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18262.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18265.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18266.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18267.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18268.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18287.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18307.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18570.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18589r.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18612.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18612_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18614.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18616.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18619.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18628.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18675.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18676.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1923.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1949.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2231.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2312.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2588.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2590.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2590_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2591.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2592.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2595.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27239r.executor&quot;: &quot;Run&quot;,
+    &quot;Python.276.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27805-8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.28538r.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3034.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3206.executor&quot;: &quot;Run&quot;,
+    &quot;Python.33104.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3692.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3834k.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3886.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.40732r.executor&quot;: &quot;Run&quot;,
+    &quot;Python.436.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4560.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4566.executor&quot;: &quot;Run&quot;,
+    &quot;Python.468.executor&quot;: &quot;Run&quot;,
+    &quot;Python.47218.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4733.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4830.executor&quot;: &quot;Run&quot;,
+    &quot;Python.48423r.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4869.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4870.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4871.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4957.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.506.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5186.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5233.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5270.executor&quot;: &quot;Run&quot;,
+    &quot;Python.55604.executor&quot;: &quot;Run&quot;,
+    &quot;Python.58249r.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5899.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5902.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5914.executor&quot;: &quot;Run&quot;,
+    &quot;Python.59739r.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.604.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6040.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6059.executor&quot;: &quot;Run&quot;,
+    &quot;Python.606.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6083.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6087.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6478.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6479.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6689.executor&quot;: &quot;Run&quot;,
+    &quot;Python.67.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6752.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.702.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7334.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7353.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7584.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7587.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7610.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7618.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7673.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7700.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7712.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7729.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7732.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7738.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7751r.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7816.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7836.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7994.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8156.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8368.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8417.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8466.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8496.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8499.executor&quot;: &quot;Run&quot;,
+    &quot;Python.85.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8594.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8597.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8599.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8660.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8664.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8671.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8673.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8676.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8684.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8696.executor&quot;: &quot;Run&quot;,
+    &quot;Python.892.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8949.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8951.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9068.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9361.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9363.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9370.executor&quot;: &quot;Run&quot;,
+    &quot;Python.953.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9545.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9699.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9702.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9736.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9743.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9746.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9764.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9781.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9784.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9828.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9831.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9835.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9838.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arbuz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dem2024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nn1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nn2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.po.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pogoda.0.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tgbot.0.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tgbot2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unluck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.хрэн10087.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/16" />
-      <recent name="$PROJECT_DIR$/17/37340r" />
-      <recent name="$PROJECT_DIR$/17/37360r" />
-      <recent name="$PROJECT_DIR$/17/38951r" />
-      <recent name="$PROJECT_DIR$/17/48465r" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ege/27/7732.1" />
+      <recent name="$PROJECT_DIR$/ege/27/7712.1" />
+      <recent name="$PROJECT_DIR$/ege/27/7729.1" />
+      <recent name="$PROJECT_DIR$/ege/27/7738.1" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="1949" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8/1949.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.1949" />
-      </list>
-    </recent_temporary>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Tabnine: Sign in using auth token" />
+    </option>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f217da54-ff3a-4ab3-a862-1c851a23c82b" name="Changes" comment="" />
-      <created>1734121322299</created>
+      <changelist id="cb5b4080-78cf-425b-8828-283d59deacee" name="Changes" comment="" />
+      <created>1727382362524</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1734121322299</updated>
+      <updated>1727382362524</updated>
     </task>
-    <task id="LOCAL-00035" summary="разгрузка">
+    <task id="LOCAL-00001" summary="тест">
       <option name="closed" value="true" />
-      <created>1734471617305</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
+      <created>1734120735859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1734471617305</updated>
+      <updated>1734120735859</updated>
     </task>
-    <task id="LOCAL-00036" summary="разгрузка">
+    <task id="LOCAL-00002" summary="тест1">
       <option name="closed" value="true" />
-      <created>1734540655486</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
+      <created>1734120849570</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1734540655486</updated>
+      <updated>1734120849570</updated>
     </task>
-    <task id="LOCAL-00037" summary="разгрузка">
+    <task id="LOCAL-00003" summary="2 задача">
       <option name="closed" value="true" />
-      <created>1734540781364</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
+      <created>1734121250005</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1734540781364</updated>
+      <updated>1734121250005</updated>
     </task>
-    <task id="LOCAL-00038" summary="разгрузка">
+    <task id="LOCAL-00004" summary="2 задача">
       <option name="closed" value="true" />
-      <created>1734541343843</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
+      <created>1734179415076</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1734541343843</updated>
+      <updated>1734179415076</updated>
     </task>
-    <task id="LOCAL-00039" summary="разгрузка">
+    <task id="LOCAL-00005" summary="2 задача">
       <option name="closed" value="true" />
-      <created>1734541728556</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
+      <created>1734183351001</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1734541728556</updated>
+      <updated>1734183351001</updated>
     </task>
-    <task id="LOCAL-00040" summary="разгрузка">
+    <task id="LOCAL-00006" summary="удалил файлики">
       <option name="closed" value="true" />
-      <created>1734545723215</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
+      <created>1734183921143</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1734545723215</updated>
+      <updated>1734183921143</updated>
     </task>
-    <task id="LOCAL-00041" summary="разгрузка">
+    <task id="LOCAL-00007" summary="выгрузка">
       <option name="closed" value="true" />
-      <created>1734545740711</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
+      <created>1734194710338</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1734545740711</updated>
+      <updated>1734194710338</updated>
     </task>
-    <task id="LOCAL-00042" summary="разгрузка">
+    <task id="LOCAL-00008" summary="выгрузка">
       <option name="closed" value="true" />
-      <created>1734545911870</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
+      <created>1734196021695</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1734545911870</updated>
+      <updated>1734196021695</updated>
     </task>
-    <task id="LOCAL-00043" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734546130089</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1734546130089</updated>
-    </task>
-    <task id="LOCAL-00044" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734546811778</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1734546811778</updated>
-    </task>
-    <task id="LOCAL-00045" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734548915644</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1734548915644</updated>
-    </task>
-    <task id="LOCAL-00046" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734628873755</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1734628873755</updated>
-    </task>
-    <task id="LOCAL-00047" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734629888364</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1734629888364</updated>
-    </task>
-    <task id="LOCAL-00048" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734707453363</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1734707453363</updated>
-    </task>
-    <task id="LOCAL-00049" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734712154878</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1734712154878</updated>
-    </task>
-    <task id="LOCAL-00050" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734792482794</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1734792482795</updated>
-    </task>
-    <task id="LOCAL-00051" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734792717659</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1734792717659</updated>
-    </task>
-    <task id="LOCAL-00052" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734792980009</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1734792980009</updated>
-    </task>
-    <task id="LOCAL-00053" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734793288965</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1734793288965</updated>
-    </task>
-    <task id="LOCAL-00054" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734793482858</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1734793482858</updated>
-    </task>
-    <task id="LOCAL-00055" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734885937556</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1734885937556</updated>
-    </task>
-    <task id="LOCAL-00056" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734886277039</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1734886277039</updated>
-    </task>
-    <task id="LOCAL-00057" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734890324118</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1734890324118</updated>
-    </task>
-    <task id="LOCAL-00058" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734890631659</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1734890631659</updated>
-    </task>
-    <task id="LOCAL-00059" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734890706412</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1734890706412</updated>
-    </task>
-    <task id="LOCAL-00060" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734890772384</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1734890772384</updated>
-    </task>
-    <task id="LOCAL-00061" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734891541532</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1734891541532</updated>
-    </task>
-    <task id="LOCAL-00062" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734892035962</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1734892035962</updated>
-    </task>
-    <task id="LOCAL-00063" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734892159380</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1734892159380</updated>
-    </task>
-    <task id="LOCAL-00064" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734892258841</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1734892258842</updated>
-    </task>
-    <task id="LOCAL-00065" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734893193642</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1734893193642</updated>
-    </task>
-    <task id="LOCAL-00066" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734894306616</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1734894306617</updated>
-    </task>
-    <task id="LOCAL-00067" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734894540999</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1734894540999</updated>
-    </task>
-    <task id="LOCAL-00068" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734894578387</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1734894578388</updated>
-    </task>
-    <task id="LOCAL-00069" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734894830723</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1734894830723</updated>
-    </task>
-    <task id="LOCAL-00070" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734949011490</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1734949011491</updated>
-    </task>
-    <task id="LOCAL-00071" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734949202166</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1734949202166</updated>
-    </task>
-    <task id="LOCAL-00072" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734949402695</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1734949402695</updated>
-    </task>
-    <task id="LOCAL-00073" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734949420450</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1734949420451</updated>
-    </task>
-    <task id="LOCAL-00074" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734949543036</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1734949543036</updated>
-    </task>
-    <task id="LOCAL-00075" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734949879150</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1734949879150</updated>
-    </task>
-    <task id="LOCAL-00076" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734950097670</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1734950097670</updated>
-    </task>
-    <task id="LOCAL-00077" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734951179543</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1734951179543</updated>
-    </task>
-    <task id="LOCAL-00078" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734951607466</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1734951607466</updated>
-    </task>
-    <task id="LOCAL-00079" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734952154208</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1734952154208</updated>
-    </task>
-    <task id="LOCAL-00080" summary="разгрузка">
-      <option name="closed" value="true" />
-      <created>1734963288441</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1734963288442</updated>
-    </task>
-    <task id="LOCAL-00081" summary="москва магадан">
-      <option name="closed" value="true" />
-      <created>1734963565019</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1734963565019</updated>
-    </task>
-    <task id="LOCAL-00082" summary="москва магадан">
-      <option name="closed" value="true" />
-      <created>1734963850453</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1734963850453</updated>
-    </task>
-    <task id="LOCAL-00083" summary="москва магадан">
-      <option name="closed" value="true" />
-      <created>1734964546191</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1734964546191</updated>
-    </task>
-    <option name="localTasksCounter" value="84" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&#10;g" />
+    <MESSAGE value="тест" />
+    <MESSAGE value="тест1" />
+    <MESSAGE value="2 задача" />
+    <MESSAGE value="удалил файлики" />
     <MESSAGE value="выгрузка" />
-    <MESSAGE value="спат хочу" />
-    <MESSAGE value="разгрузка" />
-    <MESSAGE value="москва магадан" />
-    <option name="LAST_COMMIT_MESSAGE" value="москва магадан" />
+    <option name="LAST_COMMIT_MESSAGE" value="выгрузка" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="st" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
