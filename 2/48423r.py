@@ -5,3 +5,4 @@ for x in 0,1:
             for w in 0,1:
                 if (x <= (y ==  w)) and (y == (w <= z)):
                     print(x, y, z, w)
+                    # 13
