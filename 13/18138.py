@@ -1,5 +1,4 @@
 from ipaddress import *
-counetr = 0
 for j in range(256):
     try:
         net = ip_network(f'172.16.168.0/255.255.255.{j}', 0)
