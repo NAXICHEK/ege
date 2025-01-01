@@ -1,3 +1,2 @@
-from string import *
-from itertools import *
-print(printable[:9])
+a = '123456'
+print(a[:2])
