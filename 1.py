@@ -1,4 +1,2 @@
-s = ''
-for i in range(10):
-    s +='-.'
-print(s)
+a = [1, 2 ,3]
+print(sum(a[0:2]))
