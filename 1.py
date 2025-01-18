@@ -1,2 +1,4 @@
-a = '123456'
-print(a[-3:])
+s = ''
+for i in range(10):
+    s +='-.'
+print(s)
