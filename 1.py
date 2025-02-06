@@ -1,2 +1,3 @@
-a = [1, 2 ,3]
-print(sum(a[0:2]))
+s = 'MMMMMM'
+s = s.split('M')
+print(s)
