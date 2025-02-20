@@ -1,3 +1,2 @@
-s = 'MMMMMM'
-s = s.split('M')
-print(s)
+a = '123456'
+print(a[1:])
