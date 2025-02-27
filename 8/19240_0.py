@@ -1,4 +1,7 @@
 from itertools import product, repeat
-
-for x in product('ЯНВАРЬ', repeat=5):
-    
+c = 1
+for x in product(sorted('ЯНВАРЬ'), repeat=5):
+    s = ''.join(x)
+    if (s[0] != 'Я') and (s.count('Ь') < 2) and ('ЯЯ' not in s):
+        print(c)
+    c += 1
