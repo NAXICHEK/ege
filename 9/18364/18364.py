@@ -10,4 +10,4 @@ for s in f:
             g *= i
         if sum(a1)*3 <= g:
             c += 1
-print(c)
+ц
