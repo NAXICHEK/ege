@@ -1,3 +1,5 @@
+from pickle import PROTO
+
 f = open('17_2312.txt')
 g = [int(i) for i in f]
 h = []
