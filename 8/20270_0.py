@@ -4,6 +4,7 @@ c = 0
 a = []
 for x in product('0246', repeat=3):
     s = ''.join(x)
+    print(s)
     a.append(s)
 for x in product(printable[:7], repeat=5):
     s = ''.join(x)
