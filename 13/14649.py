@@ -1,4 +1,6 @@
 from ipaddress import *
+from time import process_time
+
 c = 0
 for kapusta in range(256):
     net = ip_network(f'116.242.{kapusta}.26/255.255.255.224', 0)
@@ -8,4 +10,4 @@ for kapusta in range(256):
         if (b[0:16].count('1') >= b[16:].count('1')) == 0:
             d = 0
     if d:
-        print(kapusta)
+        print(kapusta, process_time())
