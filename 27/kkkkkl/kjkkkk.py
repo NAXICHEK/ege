@@ -50,3 +50,4 @@ centroids = [get_centroid(cluster) for cluster in clusters]
 px = int(sum(x for x, y in centroids) / len(centroids) * 10000 // 1)
 py = int(sum(y for x, y in centroids) / len(centroids) * 10000 // 1)
 print(px, py)
+visual(clusters, 10)
