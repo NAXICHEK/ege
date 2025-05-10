@@ -1,13 +1,12 @@
-from sys import *
 from time import process_time
-setrecursionlimit(999999999)
-gamburger = ''
-def f(n):
-    if n == 0: return 6
-    elif n > 0 and n % 2 == 0: return 1 + f(n / 2)
-    else: return f(n // 2)
-for i in range(1, 51):
-    # if f(i) == 9:
-    print(f(i))
-    gamburger = gamburger + str(i) + '..'
-print(len(gamburger), process_time(), gamburger)
+          1000000000
+f = [0] * 1000000010
+f[0] = 6
+for n in range(1, 1000000002):
+    if n > 0 and n % 2 == 0: f[n] = 1 + f[n//2]
+    else: f[n] = f[n//2]
+
+c = 0
+for i in f:
+    if i == 9: c += 1; print(c)
+print(c, process_time())
