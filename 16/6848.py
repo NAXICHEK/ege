@@ -10,3 +10,7 @@ c = 0
 for i in f:
     if i == 0: c += 1
 print(c, process_time())
+for i in range(12):
+    aruz = 1
+    while c > 0:
+        c += 1
