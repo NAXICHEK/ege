@@ -1,5 +1,5 @@
 def f(a, c, e):
-    if a >= 128 or c > e: return c%2 == e%2
+    if a >= 128 or c > e:return c%2 == e%2
     h = [
         f(a+2, c+1, e),
         f(a+5, c+1, e),
