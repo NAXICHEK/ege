@@ -16,4 +16,4 @@ try:
         c.append(d)
         b.clear()
 except IndexError: pass
-print(max(c))
+print(max(c))   
